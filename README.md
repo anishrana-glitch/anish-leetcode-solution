@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
