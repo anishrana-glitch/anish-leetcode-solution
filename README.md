@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -27,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0525-contiguous-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
