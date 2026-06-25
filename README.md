@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0525-contiguous-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0202-happy-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
