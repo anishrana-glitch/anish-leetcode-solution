@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
