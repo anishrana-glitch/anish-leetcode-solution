@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
 | ------- |
