@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0409-longest-palindrome) |
 ## Recursion
 |  |
