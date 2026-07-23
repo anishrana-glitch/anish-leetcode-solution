@@ -5,7 +5,8 @@ public:
        return 0;
        if (n==1)
        return 1;
-       int ans= fib(n-1);
-       return ans+fib(n-2);
+       int ans1= fib(n-1);
+       int ans2=fib(n-2);
+       return ans1+ans2;
     }
 };
