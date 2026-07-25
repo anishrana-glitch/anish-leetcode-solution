@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0383-ransom-note) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
