@@ -23,7 +23,7 @@
 <strong>Input:</strong> s = &quot;pwwkew&quot;
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> The answer is &quot;wke&quot;, with the length of 3.
-Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence and not a substring.
+Notice that the answer must be a Substring, &quot;pwke&quot; is a subsequence and not a substring.
 </pre>
 
 <p>&nbsp;</p>
