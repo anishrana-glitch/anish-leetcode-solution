@@ -18,6 +18,10 @@ public:
     void fun(TreeNode* root, TreeNode* p, TreeNode* q) {
         if (root == nullptr)
             return;
+        if (root == p && root == q) {
+        ans = root;
+        return;
+    }
         if (p->val < root->val && q->val < root->val) {
             fun(root->left, p, q);
         }
