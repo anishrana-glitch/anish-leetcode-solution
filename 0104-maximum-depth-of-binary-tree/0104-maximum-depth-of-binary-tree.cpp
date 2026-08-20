@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-int res=0;
     int maxDepth(TreeNode* root) {
         if (root == nullptr)
             return 0;
