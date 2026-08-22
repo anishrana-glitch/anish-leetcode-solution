@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
