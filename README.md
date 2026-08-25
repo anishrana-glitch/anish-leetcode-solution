@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
