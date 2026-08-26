@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0202-happy-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
