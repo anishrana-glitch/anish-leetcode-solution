@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0767-reorganize-string) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -345,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -370,4 +377,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
