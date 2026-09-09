@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
