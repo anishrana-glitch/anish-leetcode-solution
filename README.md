@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0743-network-delay-time) |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
