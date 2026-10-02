@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0525-contiguous-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -422,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
