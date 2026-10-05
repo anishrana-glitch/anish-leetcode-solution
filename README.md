@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
