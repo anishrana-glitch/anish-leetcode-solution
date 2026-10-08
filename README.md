@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
 |  |
 | ------- |
