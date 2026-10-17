@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -460,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
