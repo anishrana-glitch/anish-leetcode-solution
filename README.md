@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0074-search-a-2d-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0455-assign-cookies) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishrana-glitch/anish-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
